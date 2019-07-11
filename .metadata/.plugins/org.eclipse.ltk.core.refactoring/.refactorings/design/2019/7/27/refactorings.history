@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;Product.java&apos; を &apos;framework&apos; に移動" description="&apos;Product.java&apos; を &apos;framework&apos; に移動" destination="Factory/framework" element1="Factory/Product.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1562399396571" updateReferences="true"/>
+</session>
