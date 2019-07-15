@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="リソース名 &apos;singleton&apos; を &apos;Singleton&apos; に変更します" description="リソース &apos;singleton&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/singleton" name="Singleton" stamp="1562681114740" updateReferences="true"/>
-</session>

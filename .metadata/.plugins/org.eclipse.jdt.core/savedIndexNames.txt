@@ -1,6 +1,0 @@
-INDEX VERSION 1.131+C:\pleiades\workspace\.metadata\.plugins\org.eclipse.jdt.core
-93628206.index
-2268119641.index
-1091347983.index
-3461136891.index
-2261966418.index
